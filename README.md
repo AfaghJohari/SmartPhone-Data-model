@@ -9,3 +9,6 @@ stacking techniques, and evaluated. The models were compared based on their aver
 
 Data cleaning and preprocessing were performed using Python. Visualizations created in both Python and Power BI illustrate how each feature relates to the target variable. 
 The Addiction Level is categorized into four classes: No (0), Mild (1), Moderate (2), and Severe (3). Also it shows how the evaluation result is changed after stacking.
+
+Citing:
+Checking your browser - reCAPTCHA. (n.d.). https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction
